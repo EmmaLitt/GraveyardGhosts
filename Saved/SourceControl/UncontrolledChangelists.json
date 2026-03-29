@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Blueprints/Player_BPI.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Blueprints/Dialogue_C.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Blueprints/Widgets/WBP_Dialogue.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Levels/L_Testing.umap",
 				"C:/Users/iadair/Documents/GitHub/GraveyardGhosts/Content/Levels/L_MainLevel.umap",
 				"C:/Users/lsteinh1/Documents/GitHub/GraveyardGhosts/Content/Levels/L_MainLevel.umap",
 				"C:/Users/lsteinh1/Documents/GitHub/GraveyardGhosts/Content/UI/Font/F_Medodica.uasset",
