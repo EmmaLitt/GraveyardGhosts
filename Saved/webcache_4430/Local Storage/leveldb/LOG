@@ -1,5 +1,56 @@
-2026/03/30-10:04:06.883 40c8 Reusing MANIFEST C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/03/30-10:04:06.891 40c8 Recovering log #3
-2026/03/30-10:04:06.891 40c8 Level-0 table #3: started
-2026/03/30-10:04:06.895 40c8 Level-0 table #3: 63920 bytes OK
-2026/03/30-10:04:06.900 40c8 Delete type=0 #3
+2026/04/01-09:29:48.724 2d3c Creating DB C:/Users/iadair/Documents/GitHub/GraveyardGhosts/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/01-09:29:48.736 2d3c Reusing MANIFEST C:/Users/iadair/Documents/GitHub/GraveyardGhosts/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/01-09:45:50.214 45bc Level-0 table #5: started
+2026/04/01-09:45:50.251 45bc Level-0 table #5: 61666 bytes OK
+2026/04/01-09:45:50.260 45bc Delete type=0 #3
+2026/04/01-09:50:50.213 3ab4 Level-0 table #7: started
+2026/04/01-09:50:50.216 3ab4 Level-0 table #7: 78874 bytes OK
+2026/04/01-09:50:50.217 3ab4 Delete type=0 #4
+2026/04/01-10:03:05.014 48f4 Level-0 table #9: started
+2026/04/01-10:03:05.017 48f4 Level-0 table #9: 71096 bytes OK
+2026/04/01-10:03:05.019 48f4 Delete type=0 #6
+2026/04/01-10:03:44.305 3ab4 Level-0 table #11: started
+2026/04/01-10:03:44.308 3ab4 Level-0 table #11: 75282 bytes OK
+2026/04/01-10:03:44.310 3ab4 Delete type=0 #8
+2026/04/01-10:25:35.442 48c8 Level-0 table #13: started
+2026/04/01-10:25:35.444 48c8 Level-0 table #13: 82290 bytes OK
+2026/04/01-10:25:35.446 48c8 Delete type=0 #10
+2026/04/01-10:26:46.825 4fac Level-0 table #15: started
+2026/04/01-10:26:46.827 4fac Level-0 table #15: 64586 bytes OK
+2026/04/01-10:26:46.829 4fac Delete type=0 #12
+2026/04/01-10:26:46.830 4fac Compacting 4@0 + 1@1 files
+2026/04/01-10:26:46.833 4fac Generated table #16@0: 4 keys, 22091 bytes
+2026/04/01-10:26:46.833 4fac Compacted 4@0 + 1@1 files => 22091 bytes
+2026/04/01-10:26:46.835 4fac compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/01-10:26:46.835 4fac Delete type=2 #7
+2026/04/01-10:26:46.835 4fac Delete type=2 #9
+2026/04/01-10:26:46.835 4fac Delete type=2 #11
+2026/04/01-10:26:46.835 4fac Delete type=2 #13
+2026/04/01-10:26:46.835 4fac Delete type=2 #15
+2026/04/01-10:27:05.247 48c8 Level-0 table #18: started
+2026/04/01-10:27:05.249 48c8 Level-0 table #18: 69876 bytes OK
+2026/04/01-10:27:05.250 48c8 Delete type=0 #14
+2026/04/01-10:28:06.882 4fac Level-0 table #20: started
+2026/04/01-10:28:06.884 4fac Level-0 table #20: 73591 bytes OK
+2026/04/01-10:28:06.886 4fac Delete type=0 #17
+2026/04/01-10:42:22.727 3478 Level-0 table #22: started
+2026/04/01-10:42:22.730 3478 Level-0 table #22: 76226 bytes OK
+2026/04/01-10:42:22.731 3478 Delete type=0 #19
+2026/04/01-10:44:48.739 4c50 Level-0 table #24: started
+2026/04/01-10:44:48.742 4c50 Level-0 table #24: 81320 bytes OK
+2026/04/01-10:44:48.743 4c50 Delete type=0 #21
+2026/04/01-10:44:48.744 4c50 Compacting 4@0 + 1@1 files
+2026/04/01-10:44:48.746 4c50 Generated table #25@0: 4 keys, 27844 bytes
+2026/04/01-10:44:48.746 4c50 Compacted 4@0 + 1@1 files => 27844 bytes
+2026/04/01-10:44:48.747 4c50 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/01-10:44:48.747 4c50 Delete type=2 #16
+2026/04/01-10:44:48.747 4c50 Delete type=2 #18
+2026/04/01-10:44:48.747 4c50 Delete type=2 #20
+2026/04/01-10:44:48.747 4c50 Delete type=2 #22
+2026/04/01-10:44:48.747 4c50 Delete type=2 #24
+2026/04/01-10:45:08.666 3478 Level-0 table #27: started
+2026/04/01-10:45:08.669 3478 Level-0 table #27: 84914 bytes OK
+2026/04/01-10:45:08.671 3478 Delete type=0 #23
+2026/04/01-10:45:31.963 4c50 Level-0 table #29: started
+2026/04/01-10:45:31.966 4c50 Level-0 table #29: 87558 bytes OK
+2026/04/01-10:45:31.967 4c50 Delete type=0 #26
