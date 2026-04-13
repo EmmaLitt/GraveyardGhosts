@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/DT_Quests.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/Struct/S_Quest.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/E_Quests.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/Widgets/Additional/WB_Quest.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_NPCBase.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_NPC1.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/VQ/OE1F650WF08V6N7F1LZU3T.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_NPCGSun.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Blueprints/BP_PureDialoguePlayerController.uasset"
+			]
+		}
+	]
+}
