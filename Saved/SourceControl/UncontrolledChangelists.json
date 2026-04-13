@@ -15,7 +15,16 @@
 				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_NPCGSun.uasset",
 				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
 				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Blueprints/BP_PureDialoguePlayerController.uasset"
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Blueprints/BP_PureDialoguePlayerController.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/MainMenu/Ghoul_Name.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Blueprints/Widgets/WBP_StartMenu.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/MainMenu/M_GameName.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/MainMenu/M_MainMenuBackground.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_GhostSunglasses.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_GhostBase.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_SunglassesGhost.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Splash/EdSplash.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Splash/Splash.uasset"
 			]
 		}
 	]

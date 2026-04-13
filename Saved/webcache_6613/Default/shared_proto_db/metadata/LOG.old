@@ -1,2 +1,3 @@
-2026/04/13-09:45:10.446 7f8c Creating DB C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/04/13-09:45:10.478 7f8c Reusing MANIFEST C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/04/13-09:53:58.999 d814 Reusing MANIFEST C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/04/13-09:53:59.000 d814 Recovering log #3
+2026/04/13-09:53:59.000 d814 Reusing old log C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
