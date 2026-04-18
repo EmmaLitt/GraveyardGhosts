@@ -1,3 +1,5 @@
-2026/04/16-20:47:29.405 9140 Reusing MANIFEST C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/16-20:47:29.425 9140 Recovering log #3
-2026/04/16-20:47:29.448 9140 Reusing old log C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/04/17-16:23:08.994 394c Reusing MANIFEST C:\Users\lemma\Documents\Unreal Projects\GraveyardGhosts\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-16:23:09.013 394c Recovering log #3
+2026/04/17-16:23:09.013 394c Level-0 table #3: started
+2026/04/17-16:23:09.024 394c Level-0 table #3: 57657 bytes OK
+2026/04/17-16:23:09.033 394c Delete type=0 #3
