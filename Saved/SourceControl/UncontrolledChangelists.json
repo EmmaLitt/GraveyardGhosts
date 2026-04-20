@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Levels/L_MainLevel.umap",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/DialogSystem/BP_DialogComponent.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/Water/MFAttr_Water.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_004.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_006.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_007.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggershovel.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_SunglassesGhost.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_SunglassesGhost_Inst.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/DialogSystem/WBP_DialogWidget.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/ExampleNPC/BP_Sunglasses.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/DialogSystem/ST_Dialog.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/E_Quests.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/BP_QuestSystemComponent.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/Widgets/WB_QuestsPanel.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/SaveLoad/BP_SaveGame.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/DT_Quests.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/QuestSystem/Struct/S_Quest.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/Widgets/Additional/WB_Quest.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/QuestStartup/Blueprints/Widgets/Additional/WB_TasksList.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_CowboyGhost.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_PartyGhost.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_BraceletGhost.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/M_PendantGhost.uasset"
+			]
+		}
+	]
+}
