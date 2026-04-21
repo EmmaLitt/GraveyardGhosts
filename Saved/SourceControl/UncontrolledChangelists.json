@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_001.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_005.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhandTHETHIRD_PhysicsAsset.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhandTHETHIRD_Skeleton.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhandTHETHIRD.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_002.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/Material_003.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhand__1__PhysicsAsset.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhand__1__Skeleton.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggerhand__1_.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/BP_ShovelBase.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/gravediggershovel.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Shovel1.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Shovel2.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Shovel3.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Hand1.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Hand2.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Hand3.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/M_Hand4.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Shovel/gravediggerhand__1__Skeleton_Sequence.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/DialogSystem/WBP_DialogWidget.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/SM_GDHand.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/PA_GDHand.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/PureDialogueSystem/Ghost_Imports/SK_GDHand.uasset",
+				"C:/Users/lemma/Documents/Unreal Projects/GraveyardGhosts/Content/Blueprints/Widgets/WBP_CreditsMenu.uasset"
+			]
+		}
+	]
+}
